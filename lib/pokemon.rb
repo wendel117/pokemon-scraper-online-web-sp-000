@@ -8,10 +8,10 @@ class Pokemon
     @db = db
   end
 
-  def save 
+  def save
   end
 
-  def find 
+  def find
   end
   
 
