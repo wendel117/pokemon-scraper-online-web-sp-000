@@ -19,6 +19,6 @@ class Pokemon
 
   def find
   end
-  
+
 
 end
